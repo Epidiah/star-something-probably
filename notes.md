@@ -48,7 +48,7 @@ Okay, that's a lot of business about this progress bar, zeroing it and adding to
 The game takes place in space, but the characters don't live in a vacuum. To begin with, there's always that die in the middle of the table that they'll be orbiting around. When each player rolls, they incorporate that die into their roll and leave another die in its place for the next player. This should inform their decisions.
 
 If the result of a roll isn't a tie (and in most cases, players will have to actively choose a tie for it to occur) then there will be a highest die. This highest die confers a benefit, depending on the type of die it is:
-* Compelling: Someone witness to these events is impressed by you, your presence, or your actions. If this die is showing a 6, you also gain a Hunch Token.
+* Compelling: Someone witness to these events is impressed by you, your presence, or your actions. If this die is showing a 6, you also gain a Rumor Token.
 * Daring: You and your allies are unharmed by the current actions being resolved. If this die is showing a 6, you also gain a Initiative Token.
 * Expertise: Taking the Win or getting a full success will not zero out the progress bar. If this die is showing a 6, you also gain a Foresight Token.
 * Sneaky: Your actions go unnoticed by all you wish to hide them from. If this die is showing a 6, you also gain a Clue Token.
@@ -63,7 +63,19 @@ The tokens are a special sort of benefit. Still a little fuzzy on them. But here
 * Spend 2 when the GM surprises you to ensure that your character and their allies in the scene are not surprised.
 * Spend 3 when the GM surprises you to turn the tables on the GM's characters and surprise them instead.
 
-Something like that. The point is that there is no rolling for this stuff directly. Just collecting tokens during play and spending them. Probably should start each session with a Token. Got to think on that.
+Something like that. The point is that there is no rolling for this stuff directly. Just collecting tokens during play and spending them. Probably should start each session with a Token. ~~Got to think on that.~~
+
+#### Where do Tokens come from?
+There are five tokens you get from each of the five dice. You get them whenever a die you used in your roll (either the Course or the die you keep, or both) is a 6. You *do* get them when you have a tie.
+* Compelling Die gives you the Rumor Token, representing insight you have from things you have heard from other folks.
+* Daring Die gives you the Initiative Token, representing your danger sense and acute reflexes.
+* Expertise Die gives you the Foresight Token, representing you being prepared for this eventuality.
+* Sneaky Die gives you the Clue Token, representing your keen eye for deception and trickery in others.
+* Thriving Die gives you the Focus Token, representing your spatial awareness and a presence of mind.
+
+There are tokens beyond these five that you might aquire through means other than rolling. For example, those with a Foolhardy Destiny may pick up a Luck Token from time to time, representing pure happenstance.
+
+You may not have more than one of any given token, but all tokens essentially work the same. The only benefit of a rare token is that you are unlikely to already have one, and therefore you won't have to reject it.
 
 ### Learning Experiences
 As mentioned before, a tie is bad. It's the main failure mechanic in the game. A 6 or less is not an automatic miss. A 6 or less just means you're almost there, which could be a near miss, but could also be you taking your time and doing it right. And probably should, more often, mean exactly that. See my example of a [laser sword duel](#example-laser-sword-slingers) below for more details.

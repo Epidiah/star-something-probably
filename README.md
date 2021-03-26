@@ -1,8 +1,8 @@
 # A Personal Tabletop Roleplaying Game Design Challenge
-Hello and welcome to \*Something. I'm your faithful host and designer, [Epidiah Ravachol](www.dig1000holes.com). This is a challenge I set for myself to design and publish an entire tabletop roleplaying game using only the tools I can access from the command line of my Raspberry Pi.
+Hello and welcome to \*Something. I'm your faithful host and designer, [Epidiah Ravachol](http://www.dig1000holes.com). This is a challenge I set for myself to design and publish an entire tabletop roleplaying game using only the tools I can access from the command line of my Raspberry Pi.
 
 ## Why?
-I'm not at all familiar with Linux or bash or Vim or Emacs and all their ilk, but I'd like to be. All the blog posts, helpful tutorials, books, and taped lectures have been tremendously informative and helpful, but ultimately, what I need to practice. I need to build the muscle memory. This is an excuse to get that practice in while also ostensibly working my day job.
+I'm not at all familiar with Linux or bash or Vim or Emacs and all their ilk, but I'd like to be. All the blog posts, helpful tutorials, books, and taped lectures have been tremendously informative and helpful, but ultimately, what I need is practice. I need to build the muscle memory. This is an excuse to get that practice in while also ostensibly working my day job.
 
 ## What's the game about?
 Don't know yet. Since git is a tool available from my command line, I'm using it to track my progress through my usual creative process. Not all of my game designs start off about something right from the get-go. Right now, as a placeholder, this one is sort of a space fantasy game. The kind with starships and robots and aliens, but also swords made of energy and strange sorceries. It suits the model I'm working on, for now. But in my experience, the majority of my games start off about one thing and end up about something else entirely before I'm through with it.
