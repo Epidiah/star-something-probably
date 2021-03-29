@@ -1,5 +1,5 @@
 # \*Something
-Don't have a title for this just yet, but here goes! A space fantasy game that'll also pretty much be the best dnd--causing folks to foresake all other dnds. Setting ambitions & expectations right about there.
+Don't have a title for this just yet, but here goes! A space fantasy game that'll also pretty much be the best dnd--causing folks to foresake all other dnds. Setting ambitions & expectatio right about there.
 
 The trick here is that all of this is going to be created and published via things I can do in the command line. Specifically things I can do in the command line of my Raspberry Pi, but in all fairness, some of this will be done in the Window Subsystem for Linux because ssh'ing into my Raspberry Pi can be slooooooow. And I too old for sloooooow.
 
@@ -59,11 +59,15 @@ These benefits are optional, and importantly, they may not always be applicable.
 ### Tokens
 The tokens are a special sort of benefit. Still a little fuzzy on them. But here's the current take. You can only ever have one of each type. You spend them:
 * Spend 1 at any time to gain important information.
+	* Each token type should have its own set of questions you can ask.
 * Spend 1 when the GM surprises you to ensure that your character is not surprised.
+	* This will let you avoid arbitrary harm. Like, if the GM says, "The room is booby-trapped! The floor disentigrates beneath you and you all fall into a laser pit. Everyone advance your Destiny track by one." You can spend any 1 token to say, "Nope, not me, and here's why," followed by an explanation of why that specific token saved you.
 * Spend 2 when the GM surprises you to ensure that your character and their allies in the scene are not surprised.
+	* This will let you avoid arbitrary harm. Like, if the GM says, "The room is booby-trapped! The floor disentigrates beneath you and you all fall into a laser pit. Everyone advance your Destiny track by one." You can spend any 2 tokens to say, "Nope, not us, and here's why," followed by an explanation of why that specific token saved you.
 * Spend 3 when the GM surprises you to turn the tables on the GM's characters and surprise them instead.
+	* As above, this will save the lot of you from arbitraty harm, but also will let you turn the tables, "I had heard Rumors that Lord Wuffington had rigged his palace up with deathtraps, so when I kicked a pebble and it fell through the floor I recognized that as a Clue, and I took the Initiative to have us pretending to fall into the trap, but instead, cling to the sides of the pit just below the holo-floor to lay in wait for poor guards who would have to clean this mess up. Might get some official uniforms off of them."
 
-Something like that. The point is that there is no rolling for this stuff directly. Just collecting tokens during play and spending them. Probably should start each session with a Token. ~~Got to think on that.~~
+Something like that. The point is that there is no rolling for this stuff directly. Just collecting tokens during play and spending them. Tokens are persistent from session to session. That is, you start each session with the ones you ended the last session with. Oh! That means the 6s you roll when rolling for adventurer type are the tokens your new character starts with!
 
 #### Where do Tokens come from?
 There are five tokens you get from each of the five dice. You get them whenever a die you used in your roll (either the Course or the die you keep, or both) is a 6. You *do* get them when you have a tie.
@@ -196,3 +200,107 @@ Again, the tie only means trouble. If it had tied on a 5 or a 6, that might have
 Here's the thing, the rolling and adding and apply the effects of the high die are all about painting us into corners with fictional positioning. Here the GM wants to offer Jethany a win that she'll take that will also keep the Wuff around to menace them in the future. If Jethany takes this deal, she'll take no more harm, but Wuff absolutely would get away, even though there's still points in the Flow, even though she didn't reach his minimum threshold for a laser sword fight. That's probably good enough for her. Or is it? How focused on vanguishing Lord Wuffington is Jethany? If she takes the 6 or less instead, she'll get hit again, and that could be bad (who knows, haven't designed that part yet), but she'll have a Flow of +3, unlocking the +3 bonus from her sword. I mean, she's just getting started.
 
 We'll leave that decisions as an exercise for the reader.
+
+## \*Battles!
+Space fights are handled pretty much like everything else in the game, with the following exceptions.
+
+### Damage Matrix
+Ships that aren't populated by the player characters work pretty much like other characters do. They have MT that must be exceeded for important things, like vanquishing them or losing them in a chase through an asteroid field. The GM can get as granular as they want here. It might be evocative to just name these MTs. Like Shields 19, Engines 17, Maneuvering 15.
+
+Likewise, non-player ships (NPS) might have Dooms they can assign to the *ships* of their opponents. More about that in a moment.
+
+Player ships, however, work a little differently. They have something akin to a Destiny track call a Damage Matrix. Whereas Destiny tracks tend to be a single linear path, you start at the start and end at your Doom, the Damage Matrix of a ship is made up of 3 or 6 paths.
+
+For Ships:
+1. Shields [ ]
+2. Engines [ ]
+3. Weapons [ ]
+4. Sensors [ ]
+5. Control [ ]
+6. Destiny [ ]
+
+For smaller vehicles and mounts, you can make custom damage matrices with with different catagories. For example, a jousting flamigo might be:
+1-2. Verocity
+3-4. Velocity
+5-6. Destiny
+With Verocity tracking the bird's will to stay with you in danger, Velocity tracking it's health and how that affects it's speed, and Destiny being a conduit to the character's Destiny track.
+
+When a ship takes damage from another ship it's own class or larger, roll two d6 and take a hit in each result. If the damage is from a smaller class, only roll one d6.
+
+*Please keep in mind, Eppy:* These are only for player ships. There's no need to figure any of this out for NPS. I know you're tempted to do something like, smaller craft can make more precise strikes on larger craft, so instead of rolling two dice, they choose one result. And that would be cool, if NPS had the same damage system. But they don't. You just have to beat a threshold. Hey, you can hit the exhaust port that leads directly to the battlestation's massive reactor if you can beat a threshold of 28--better build up some flow. It's better that way. After all, you don't want to attack the players with a smaller craft and then have to choose where they get hit. That's just too cruel.
+
+>*Related Aside:* In general, this is how the game works. All things requiring detailed tracking, like Destiny and Damage tracks, are player-facing. Everything not player-facing is handled by thresholds, flows, and the win taking.
+
+Since only player ships have damage tracks, you can lovingly assemble them without taking up too much of your precious time. Here's what I think one ship that can take a crew of ~5 might look like.
+
+1. Shields
+	[First hit, no matter the roll, hits here]
+	[Ignore all second level hits that don't land here]
+	[Ignore all third level hits that don't land here]
+	[Shields out, bit display of sparks from panels]
+2. Engines
+	[Stalled Warp: Until this is repaired, you cannot make the jump to warp.]
+	[ ]
+	[ ]
+	[Stalled Warp: Until this is repaired, you cannot make the jump to warp.]
+3. Weapons 
+	[ ]
+4. Sensors
+	[ ]
+5. Control
+	[Recalibrate: Add +1 to all piloting & gunnery thresholds]
+	[Careening: A piloting roll is needed to avoid colliding with something and taking an additional two dice of Damage. The threshold is based on how many things there are out here to collide with.]
+	[Misaligned: Add an additional +3 to all piloting & gunnery thresholds]
+	[Locking Up: Every hit here hereafter adds an addition +3 to piloting thresholds.]
+6. Destiny
+	[All crew at the start of their Destiny track mark one Destiny]
+	[All crew on the second place for their Destiny mark another Destiny]
+	[For every hit here hereafter the crewmember with the least Destiny marked marks another, choose randomly if you have to]
+
+#### Recovery
+Let's say how far along a mark is in that damage's track is the level of that mark. So, for example, if the above ship has taken 2 hits in Control, the Recalibrate hit is level 1 and the Careening hit is level 2.
+
+A recovery from a high Thriving die can be spent on a player's ship. This immediately unmarks a Damage track result and removes its effect. The player spending them chooses which hit to remove. It can be of any level.
+
+Additionally, a player can make a Repair skill roll to try to get things back to a better state. The GM should set this threshold based on the intent and current conditions, but a good baseline could be something like 7 plus level of the mark. Marks do not have to be removed in order. And you can remove more than one mark with a single roll if the fictional positioning allows it. You just have to reflect that in the threshold. For example, Stevelynn has a Repair: Starship of +3. He wants to fix the Misaligned Controls and the Stalled Engines. That's 7 + 3 (the Misaligned Controls) + 1 (level 1 Stalled Warp Engines) = 11. That's a tall order, but possible even without flow and there might be a nice win he can take in there.
+
+Just like recovery, you can repair things out of order. In fact, you'll probably want to. For example, if the pilot has already recovered from Careening, there's no reason why you would want to repair it. These sorts of entries will recover on their own between battles, even if the players aren't happy about that.
+
+*Destiny:* Hits on the Destiny track cannot be repaired or recovered. Their effect on the crew is immediate and must be dealt with on an individual basis.
+
+### Sensors & Onboard Tokens
+If you're character is part of a crew of a ship, even in an ad hoc or backseat pilot sort of way, you need only spend 1 token for the whole ship to avoid a surprise the GM has just hoisted upon you. This is only possible if you are in direct control of whatever function of the ship you intend to use to avoid the surprise, or whoever is in control of it is paying attention to you. That should usually be the case, but who knows?
+
+This is the equivalent of spending 2 tokens so that the whole party avoids the situation, if the whole party is aboard your ship. If you are aboard multiple ships, 2 tokens can alert your little squadron, as usual. And it still takes 3 tokens to turn the tables.
+
+A ship with a working sensor array can also provide a Sensor Token. Any character operating the sensors can get a Sensor Token by making a roll with their Sensor skill. Under normal circumstances, all that is needed is a >= 7. However, some foes might have a MT related to their ship's cloaking or stealth abilities. Additionally, some Damage results to the ship can increase this threshold. If you beat the threshold, you get a Sensor Token. If one or more of your dice were 6s, you get those Tokens as well. Like all Tokens, you can only ever have 1 Sensor Token at a time, so spend it fast.
+
+Sensor Token Questions:
+* What's out there?
+* In space, can they hear you scream?
+* Where? Where?
+*Note:* Obviously write some of these, dude.
+
+## About the Course
+When the GM puts that first die out, they are setting the Course. There will be rules throughout the game that are governed by the type of die that is currently the Course. Because of this, it is important that:
+a. There is a Course in effect at all times.
+b. It is obvious what that Course is.
+
+So, here are the rules:
+* Once that first Course is set, there is always a Course in effect until the session has ended.
+* The Course always changes *after* the consequences of a roll.
+
+That is, when it is your turn, you are under the Course that is currently set. You will roll, and incorporate that Course into your roll. If there is any fallout from that roll, perhaps most notably harm because Daring was not the highest die, then that fallout is governed by the Course you incorporated into your roll--not the Course you set for the next roll.
+
+The current Course can have an effect on Destiny Tracks and there might be opponents who behave a certain way under different Courses. For example, the majority of Lord Wuffington's marines are not well trained. When there is an Expertise Course showing, they do the smart thing and hold their fire to keep cover--the GM cannot surprise the players with any of Wuff Marines actions while this Course is in play. Conversely, Wuffington's personal guard are zealots and increase their battle-ready thresholds by 3 when the Course is Daring.
+
+These aforementioned details exist to add some mechanical variety to various opponents. They can influence the fiction, both in how the GM plays and the sorts of wins on offer for the taking, but they do not have to. And it's fun to sprinkle an exception to the rule in now and again. Like a veteran among Wuffington's marines who knows what he's doing. So his squad does not suffer the same constraints under Expertise, and instead keep their cover for when the adventurers are feeling more Daring, which is pretty smart.
+
+## Weapons & Equipment
+Hey, having gear that affects the mechanics is kind of fun. Here are some examples of ways that can be done.
+
+* A precision ray pistol that offers a flat +1 to shooting.
+* Jethany's antique laser rapier that's finicky, but deadly in the hands of a master. It adds a +3 to your roll if your Flow is 3 or greater.
+* A rapid-blaster that can temporarily overheat as a consequece of taking a win, or permenantly meltdown as part of a dramatic setback.
+* Hover-trike, a beginner-friendly version of the hover-cycle that raises your skill in piloting it to a +2 if your skill was +1 or less.
+* A cantankerous cyber-donkey that can wander off as a consquence of taking a win or a dramatic setback, but when it warms to you, it can add an extra +1 to your flow when you roll with a Compelling Course.

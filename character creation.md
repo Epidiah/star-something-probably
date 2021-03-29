@@ -8,10 +8,12 @@ I'm thinking characters will have:
 * a Species, because we're all alien in some way or form,
 * And a Destiny, which covers what happens when they are not covered by a high Daring die and suffer harm as a result.
 
-Let's start with my most thought out part, the Adventurer Type.
-
 ## Adventurer Type
-Roll all five dice. The three highest determine your adventurer type. If there's a tie that put four or five dice in your top three slots, you can choose among those dice which three you want, or you can pick four dice and go for the Lone Adventurer.
+You can choose which Adventurer Type you want, or you can roll for it. To choose, peruse the list of available types for one that suits your needs. Then choose one of the dice available for that type, and start the game with a token appropriate to that die. If you happened to choose the Lone Adventurer, you may start with two tokens, each one from a different die that is available to you.
+
+If you choose to roll, roll all five dice. The three highest determine your adventurer type. If there's a tie that put four or five dice in your top three slots, you can choose among those dice which three you want, or you can pick four dice and go for the Lone Adventurer.
+
+Also note which dice roll a 6 here. Those determine the tokens you begin the game with. If you rolled a Compelling [6], Daring [3], Expertise [6], Sneaky [2], and Thriving [4], you are a Wise Adventurer with a Rumor and Foresight token at the beginning of the game.
 
 Note: This method might make a combination of characters who don't have all the die types covered. That's something that *could* be fixed in character creation, but that won't guarantee having the a full set at game time what with everyone's schedules being what they are. Instead, at the start of each session, anyone who wants to, can swap one of their die types for one they don't have for the remainder of that session. This doesn't change any one's Adventurer Type, just the dice they have available for that session. Even with only two characters who have the exact same Adventurer Type, this should be enough to cover the full spread.
 
@@ -19,16 +21,16 @@ Note: This method might make a combination of characters who don't have all the 
 C = Compelling, D = Daring, E = Expertise, S = Sneaky, T = Thriving
 Not quite sold on this particular batch of adjectives just yet. All of the powers associated with the Adventurer Type should revolve around the dice you are rolling. They have a loose tie to the fiction through adjective associated with the type, but other than that, they're just one way in which you interact with the dice just a little different than everyone else. I have a sinking feeling that this will get too fiddly and I'll have to drop the powers, but let's see how they work in play.
 
-* CDE: *Brash*--
-* CDS: *Roguish*--If the Course offered to you is an Expertise die, you may choose to ignore it and use both of the dice you rolled instead, passing the old Course on to the next player. You may make this decision after you roll.
-* CDT: *Bold*--
-* CES: *Brilliant*--You may add 2 instead of 1 to your Flow for any roll you make in which the Course die is an Compelling die.
+* CDE: *Brilliant*--You may add 2 instead of 1 to the Flow for any roll you make in which the Course die is an Expertise die.
+* CDS: *Brash*--If the Course offered to you is an Expertise die, you may choose to ignore it and use both of the dice you rolled instead, passing the old Course on to the next player. You may make this decision after you roll.
+* CDT: *Bold*--If you _rolled_ both Compelling and Daring dice and they are both higher than the Course die, then you get both high die benefits, even though you only get to keep one. If either or both of them are 6s, you still only get the token from the one you keep, as per usual.
+* CES: *Mysterious*--If you _rolled_ both Expertise and Sneaky dice and they are both higher than the Course die, then you get both high die benefits, even though you only get to keep one. If either or both of them are 6s, you still only get the token from the one you keep, as per usual.
 * CET: *Wise*--If the Course die is Daring, you may roll all 3 of your dice, discard one of your choosing before keeping another and swaping the third with the Course die, as usual.
-* CST: *Charming*--
+* CST: *Charming*--You may add 2 instead of 1 to the Flow for any roll you make in which the Course die is an Compelling die.
 * DES: *Calculating*--You may add +2 to your roll if both the old Course die and the die you keep are greater than the die you pass on to the new Course.
-* DET: *Mysterious*--
-* DST: *Sly*--
-* EST: *Clever*--You may add 2 instead of 1 to the Flow for any roll you make in which the Course die is a Sneaky die.
+* DET: *Enterprising*--If the Course is a Compelling or Sneaky die and showing a 1, you may gain a token of the appropriate type.
+* DST: *Sly*--If the Course is higher than both dice you rolled, you may choose to use the high dice benefit of any of the five dice instead.
+* EST: *Canny*--You may add 2 instead of 1 to the Flow for any roll you make in which the Course die is a Sneaky die.
 * Any 4: *Lone*--Probably nothing beyond having 4 dice to choose from? Got to give this a think.
 
 ## Adventurer Careers
@@ -77,9 +79,13 @@ Okay, I've heard you out, and I'm rejecting it. I've got to build all these. It'
 
 ### Foolhardy
 - [x] Idle Hands: Start here. A recovery from here grants you a Foresight Token.
-- [ ] Boneheaded I: If you landed on this after a roll that uses the Expertise die, go to Boneheaded II instead.
-- [ ] Fortune Favors: Gain a Fortune Token.
-- [ ] Boneheaded II: If you landed on this after a roll that uses the Thriving die, go to Bonedheaded III instead, even if you just came here directly from Boneheaded I.
+- [ ] Boneheaded I: If you landed on this while the Course is an Expertise die, go to Boneheaded II instead.
+- [ ] Fortune Favors: Gain a Luck Token.
+- [ ] Boneheaded II: If you landed on this while the Course in a Thriving die, go to Bonedheaded III instead.
 - [ ] Unbelieveable: Gain a Luck Token.
-- [ ] Boneheaded III: After you choose which die to set in the Course, reroll it and set the course to that new value.
+- [ ] Boneheaded III: Whenever you choose which die to set in the Course, you must reroll it and set the course to that new value.
 - [ ] Doomed: You get a single syllable utterance before your ultimate demise. For the next 3 sessions, each of your companions can recover once per session just by sweetly reminiscing about how you used to cheer them up.
+
+*Note:* Make some Destinies that end in Dooms that have characters narrowly escape and retire.
+
+*Also Note:* Make threats that alter your Dooms when you face them!
