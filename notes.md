@@ -60,6 +60,7 @@ These benefits are optional, and importantly, they may not always be applicable.
 The tokens are a special sort of benefit. Still a little fuzzy on them. But here's the current take. You can only ever have one of each type. You spend them:
 * Spend 1 at any time to gain important information.
 	* Each token type should have its own set of questions you can ask.
+	* You can ask one question from this list when you spend the token, or 2 if you're currently discussing the topic with NPCs.
 * Spend 1 when the GM surprises you to ensure that your character is not surprised.
 	* This will let you avoid arbitrary harm. Like, if the GM says, "The room is booby-trapped! The floor disentigrates beneath you and you all fall into a laser pit. Everyone advance your Destiny track by one." You can spend any 1 token to say, "Nope, not me, and here's why," followed by an explanation of why that specific token saved you.
 * Spend 2 when the GM surprises you to ensure that your character and their allies in the scene are not surprised.

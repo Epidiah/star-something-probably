@@ -11,7 +11,7 @@ I'm thinking characters will have:
 ## Adventurer Type
 You can choose which Adventurer Type you want, or you can roll for it. To choose, peruse the list of available types for one that suits your needs. Then choose one of the dice available for that type, and start the game with a token appropriate to that die. If you happened to choose the Lone Adventurer, you may start with two tokens, each one from a different die that is available to you.
 
-If you choose to roll, roll all five dice. The three highest determine your adventurer type. If there's a tie that put four or five dice in your top three slots, you can choose among those dice which three you want, or you can pick four dice and go for the Lone Adventurer.
+If you choose to roll, roll all five dice. The three highest determine your adventurer type. If there's a tie that put four or five dice in your top three slots, you can choose among those dice which three you want, or you can pick all five dice and go for the Lone Adventurer.
 
 Also note which dice roll a 6 here. Those determine the tokens you begin the game with. If you rolled a Compelling [6], Daring [3], Expertise [6], Sneaky [2], and Thriving [4], you are a Wise Adventurer with a Rumor and Foresight token at the beginning of the game.
 
@@ -21,17 +21,17 @@ Note: This method might make a combination of characters who don't have all the 
 C = Compelling, D = Daring, E = Expertise, S = Sneaky, T = Thriving
 Not quite sold on this particular batch of adjectives just yet. All of the powers associated with the Adventurer Type should revolve around the dice you are rolling. They have a loose tie to the fiction through adjective associated with the type, but other than that, they're just one way in which you interact with the dice just a little different than everyone else. I have a sinking feeling that this will get too fiddly and I'll have to drop the powers, but let's see how they work in play.
 
-* CDE: *Brilliant*--You may add 2 instead of 1 to the Flow for any roll you make in which the Course die is an Expertise die.
-* CDS: *Brash*--If the Course offered to you is an Expertise die, you may choose to ignore it and use both of the dice you rolled instead, passing the old Course on to the next player. You may make this decision after you roll.
-* CDT: *Bold*--If you _rolled_ both Compelling and Daring dice and they are both higher than the Course die, then you get both high die benefits, even though you only get to keep one. If either or both of them are 6s, you still only get the token from the one you keep, as per usual.
-* CES: *Mysterious*--If you _rolled_ both Expertise and Sneaky dice and they are both higher than the Course die, then you get both high die benefits, even though you only get to keep one. If either or both of them are 6s, you still only get the token from the one you keep, as per usual.
-* CET: *Wise*--If the Course die is Daring, you may roll all 3 of your dice, discard one of your choosing before keeping another and swaping the third with the Course die, as usual.
-* CST: *Charming*--You may add 2 instead of 1 to the Flow for any roll you make in which the Course die is an Compelling die.
-* DES: *Calculating*--You may add +2 to your roll if both the old Course die and the die you keep are greater than the die you pass on to the new Course.
-* DET: *Enterprising*--If the Course is a Compelling or Sneaky die and showing a 1, you may gain a token of the appropriate type.
+* CDE: *Brilliant*--You may add 2 instead of 1 to the Flow for any roll you make during which the Course was set to Expertise.
+* CDS: *Brash*--If the Course is set to Expertise, you may ignore it and use both of the dice you rolled instead, leaving the Course set on Expertise. You may make this decision after you roll.
+* CDT: *Bold*--If you set the new Course to Compelling and that Course has a higher value than the old Course, you get the Compelling high die benefit in addition to all other die results.
+* CES: *Mysterious*--If you set the new Course to Sneaky and that Course has a higher value than the old Course, you get the Sneaky high die benefit in addition to all other die results.
+* CET: *Wise*--If the Course is set to Daring, you may roll all 3 of your dice, discard one, and then proceed as usual. If you happen to roll a Daring die, it must be set as the next Course.
+* CST: *Charming*--You may add 2 instead of 1 to the Flow for any roll you make during which the Course was set to Compelling.
+* DES: *Calculating*--You may add +3 to your roll if the old Course and the die you pair with it are both less than the value of the new Course you are setting.
+* DET: *Enterprising*--If the Course is Compelling or Sneaky and has a value of 1, gain a token of the type appropriate to the Course die.
 * DST: *Sly*--If the Course is higher than both dice you rolled, you may choose to use the high dice benefit of any of the five dice instead.
-* EST: *Canny*--You may add 2 instead of 1 to the Flow for any roll you make in which the Course die is a Sneaky die.
-* Any 4: *Lone*--Probably nothing beyond having 4 dice to choose from? Got to give this a think.
+* EST: *Canny*--You may add 2 instead of 1 to the Flow for any roll you make during which the Course was set to Sneaky.
+* CDEST: *Lone*--You have access to all five dice and at the start of each session, you may gain one token from any two of your dice.
 
 ## Adventurer Careers
 This is some classic stuff from the 80s and 90s. I'm too lazy to build them up right now, and that's a good thing. They should be built near the end, when the skill list and a bunch of other shit is finalized. That way I won't have to go through and rebuild them with every change. But they should basically look like a list of skills the career might have--say, five of them--and some starting equipment. So like this:
@@ -53,6 +53,22 @@ But wait, Eppy, how does a robot with High Grav Mass Lifer work in play? Especia
 Bertrude's skill is just Thews. But it's a +2. She's strong, for a UPH. The GM sets her threshold at 19. That's fine. She's got the first door, so she only has to keep it open for a little bit. A3P-13's skill is High Grav Mass Lifter. But it's a +0. They're weak, for a robot that lifts cargo on high grav worlds. The GM set their threshold at 10. Everyone escaping is the same Flow. As the rolls play out, Bertrude is more likely to roll >= 7, which means she have some sweet Wins to the Take, but ultimately probably won't last long enough to actually jam the door open. Here's hoping those wins are enough to see everyone through. A3P-13, on the other hand, is going to depend on the Flow more and is less likely to see a Take the Win result, but might actually see a Full Success!
 
 I'm going to have to ponder that for a bit. There's probably another little thing that has to go along with it. But if I can avoid that, I will.
+
+Speaking of blobs! Let's make some species to start with. I think this game will benefit from a set number of species and then letting folks build their own from there.
+
+### Ubiquitous Pseudo-Humans
+These are the default. Human but, you know, forehead ridges or antenae or blue skin. Cosmetically different, and perhaps mildly different in some fictionally important ways, but fundamentally the same as humans. They are the baseline.
+
+### Robots
+These probably tend to be humanoid, though it's prefectly okay if they're not. Robots will have one or two skills that break the normal bounds of UPH abilities. A math robot that has Higher Dimensional Math or that load lifting robot A3P-13 from the example.
+
+If the fiction's right, robots can be augmented to take on more of these skills. They'll start at +0, of course. This shouldn't be too strange, because, if the fiction is right, UPH could take on really weird skills, too, like sorcery.
+
+### Budgies
+Once an empire of colorful, humanoid birds, now scattered everywhere. They're a great example of a UPH with the fictional hook that, given the right training, they can glide without tech, even fly in low gravity.
+
+### Blobs!
+I love these. Amorphous blobs. They can squeeze into things, pool on the ground, or cling to walls.
 
 ## Destiny
 All right, let's tackle this. Every player character, and probably some ships, have Destiny Tracks. When you take harm, it moves you one space on your Destiny track towards your Doom. When someone offers you a Recovery from a high Thriving die, you move one space on your Destiny track away from your Doom. So far, so very much like hit points. Let's come up with a sample Destiny Track. There's no generic Destiny Track, so we'll need something evocative to start from. How about my favorite [broken old adventurer](#old-and-broken) trope?
