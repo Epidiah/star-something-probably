@@ -305,3 +305,29 @@ Hey, having gear that affects the mechanics is kind of fun. Here are some exampl
 * A rapid-blaster that can temporarily overheat as a consequece of taking a win, or permenantly meltdown as part of a dramatic setback.
 * Hover-trike, a beginner-friendly version of the hover-cycle that raises your skill in piloting it to a +2 if your skill was +1 or less.
 * A cantankerous cyber-donkey that can wander off as a consquence of taking a win or a dramatic setback, but when it warms to you, it can add an extra +1 to your flow when you roll with a Compelling Course.
+
+## Harm & Peril
+There are two vectors for harm. The first is when you make a roll that puts you in peril. The second is when any other actions put you in peril.
+
+The only way to avoid harm when you roll the dice is to have the Daring die as the high die.
+
+The only way to avoid harm when any other action puts you in peril is to spend a token.
+
+The Starry Teller should tell you when you're making a roll if it will put you, and/or others, into Peril, so you can decide then if you want to include the Daring die. Often this will be obvious and can be left unsaid. Sometimes it's in question and will depend on the result. If in doubt, ask if there is any risk of Peril before choosing your dice. If the Daring die is the zenith, then you're golden. No Peril befalls you or anyone else you don't want it to as a result of this roll. If not, the Starry Teller will dish out the harm while explaining why it is happening. At this point, other players can spend tokens to have their characters avoid this harm and help others avoid it, but no tokens spent can help the character responsible for the roll. They risked the Peril and now they must suffer the harm.
+
+### Avoiding Harm By Avoiding Peril
+Harm is what happens when you are in Peril. As mentioned above, there are two ways to avoid harm once you are in Peril: high Daring die and spending tokens. But you can avoid Peril in the first place. This is a fictional positioning thing and a distinction that may not be important, but let's talk through it.
+
+Peril is the risk of harm. If you are in Peril, you receive harm, unless you are saved by the Daring die—representing your pushing through the peril and miraculously coming out unscathed—or saved by a token—representing your being prepared for the risks and mitigating them. Both of these require some fiction to happen. Why didn't you get cut apart by laser fire?
+
+With the Daring die, the answer is usually some combination of luck and skill. You danced or stumbled through the laser fire in a brave or foolhardy act.
+
+With the token, the answer is usually tied to the nature of the token (though it doesn't have to be). You took the Initiative and closed the blast doors before your foe got a chance to pull the trigger. You noticed a shadow just before rounding the corner, and realized it was a Clue just in time to stop yourself from walking into the trap.
+
+Maybe you spend 2 tokens. You remember hearing a Rumor that a budgie bounty hunter was operating in the area and, for some reason, a faint noise up ahead made you remember this. Drawing your Focus to the danger at hand, you grab your allies and rush them past the open corridor as laser fire sears the walls behind you.
+
+Or maybe you spend 3 tokens. Smash your Foresight, Focus, and Initiative together to say that you don't trust blind corners and had your ray pistol out before you even made the turn, giving you the drop on your foe who now must decide if they want to surrender or draw on you.
+
+Note that some of the above answers put you in the Peril, but unharmed, and others avoid the Peril altogether. You could even argue that some changed the nature of the Peril. The point is, it's the Peril that causes the harm. Mechanics aside, your can often put yourself in a fictional position that is devoid of Peril, if need be, without relying on these mechanics. If you're describing your characters checking around ever corner with mirrors, you're probably going to see the Peril before you're in it. I mean, that's weird behavior most of the time, but if you're aboard a ship with someone hunting you, it's perfectly understandable behavior.
+
+Another note is that spending tokens *tends* to remove you from the Peril, which may also remove you from the action or the course you wish to be on. This can be temporary, but if you want back into that action, if you need to get throught he Peril to see the other side, you need to roll through it. You can't spend tokens to cast it aside. This might be a deeper, harder to understand distinction and may require some of the upfront language to reflect it so players internalize it more.
